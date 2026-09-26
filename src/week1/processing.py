@@ -36,7 +36,7 @@ def process(path_to_data,file_prefix:str, output_file_name:str):
 
 
 ### Concating and Filter Listing Datasets
-#process(r"data\csv", "CRMLSListing",r"src\week1\Combined_Residential_Listings.csv")
+process(r"data\csv", "CRMLSListing",r"src\week1\Combined_Residential_Listings.csv")
 """
 Row Counts:
 Total Row count before Filtering and Concating: 860898 Rows.
