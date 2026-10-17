@@ -1,4 +1,4 @@
 data
 venv
-src/week1/Combined_Residential_Listings.csv
-src/week1/Combined_Residential_Sold.csv
+data/Combined_Residential_Listings.csv
+data/Combined_Residential_Sold.csv
